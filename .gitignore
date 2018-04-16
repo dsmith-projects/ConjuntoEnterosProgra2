@@ -1,0 +1,9 @@
+#Files to ignore
+
+nbproject/
+dist/
+build/
+
+.DS_Store
+.dep.inc
+Makefile
